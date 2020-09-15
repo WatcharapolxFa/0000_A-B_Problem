@@ -19,8 +19,9 @@ int main()
 
 }
 
-int positive(int a, int b)
+int positive(int a , int b)
 {
 	int c = 0;
 	c = a + b;
+	return c;
 }
